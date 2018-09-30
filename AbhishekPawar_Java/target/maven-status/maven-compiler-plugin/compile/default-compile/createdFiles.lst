@@ -1,0 +1,17 @@
+com\ubs\assignment\beans\Account.class
+com\ubs\assignment\beans\AccountFactory.class
+com\ubs\assignment\beans\Trade.class
+com\ubs\assignment\filehandler\EodCsvFileWriter.class
+com\ubs\assignment\service\TradeServiceImpl.class
+com\ubs\assignment\beans\Position.class
+com\ubs\assignment\beans\EAccount.class
+com\ubs\assignment\filehandler\JsonFileReader.class
+com\ubs\assignment\strategy\DecreaseQuantityStrategy.class
+com\ubs\assignment\beans\SellTrade.class
+com\ubs\assignment\Main.class
+com\ubs\assignment\filehandler\TextFileReader.class
+com\ubs\assignment\strategy\IncreaseQuantityStrategy.class
+com\ubs\assignment\service\TradeService.class
+com\ubs\assignment\strategy\UpdateQuantityStrategy.class
+com\ubs\assignment\beans\IAccount.class
+com\ubs\assignment\beans\BuyTrade.class
